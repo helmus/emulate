@@ -4,7 +4,7 @@ http = require "http"
 
 app = express()
 
-app.set "port", 3000
+app.set "port", 80
 app.use express.cookieParser()
 app.use express.methodOverride()
 

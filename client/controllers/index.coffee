@@ -1,3 +1,4 @@
 define [
-  "./main.controller"
+  "./main"
+  "./about"
 ], () ->
