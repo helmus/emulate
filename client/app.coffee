@@ -1,9 +1,11 @@
 define [
   "angular"
+  ####
   "./controllers/index"
   "./directives/index"
   "./filters/index"
   "./services/index"
+  "css!./assets/index.css"
 ], (ng) ->
   "use strict"
   ng.module "app", [
