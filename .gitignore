@@ -1,0 +1,12 @@
+.idea/workspace.xml
+.idea/mongoSettings.xml
+node_modules/*
+*.orig
+*.rej
+.directory
+client/**/*.css
+client/**/*.js
+client/**/*.map
+client/lib_bower/*
+server/**/*.js
+server/**/*.map
