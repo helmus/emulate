@@ -2,22 +2,11 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/client/filters/index.js" />
-        <item url="file://$PROJECT_DIR$/client/services/index.js" />
-        <item url="file://$PROJECT_DIR$/client/controllers/index.js" />
-        <item url="file://$PROJECT_DIR$/client/controllers/main.js" />
-        <item url="file://$PROJECT_DIR$/client/app.js" />
         <item url="file://$PROJECT_DIR$/client/main.js" />
         <item url="file://$PROJECT_DIR$/client/bootstrap.js" />
+        <item url="file://$PROJECT_DIR$/client/app.js" />
         <item url="file://$PROJECT_DIR$/server/app.js" />
-        <item url="file://$PROJECT_DIR$/client/lib_bower/nanoscroller/tests/coffeescripts/nano-spec.js" />
-        <item url="file://$PROJECT_DIR$/client/lib_bower/nanoscroller/Gruntfile.js" />
-        <item url="file://$PROJECT_DIR$/client/lib_bower/nanoscroller/coffeescripts/jquery.nanoscroller.js" />
-        <item url="file://$PROJECT_DIR$/node_modules/nodeunit/test/fixtures/coffee/mock_coffee_module.js" />
         <item url="file://$PROJECT_DIR$/client/routes.js" />
-        <item url="file://$PROJECT_DIR$/client/controllers/about.js" />
-        <item url="file://$PROJECT_DIR$/client/directives/index.js" />
-        <item url="file://$PROJECT_DIR$/client/controllers/module.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
@@ -61,19 +50,19 @@
       <root url="file://$PROJECT_DIR$/client/filters/index.js" />
       <root url="file://$PROJECT_DIR$/client/services/index.js" />
       <root url="file://$PROJECT_DIR$/client/controllers/index.js" />
-      <root url="file://$PROJECT_DIR$/client/app.js" />
       <root url="file://$PROJECT_DIR$/client/controllers/main.js" />
-      <root url="file://$PROJECT_DIR$/client/main.js" />
-      <root url="file://$PROJECT_DIR$/client/bootstrap.js" />
-      <root url="file://$PROJECT_DIR$/server/app.js" />
       <root url="file://$PROJECT_DIR$/client/lib_bower/nanoscroller/tests/coffeescripts/nano-spec.js" />
       <root url="file://$PROJECT_DIR$/client/lib_bower/nanoscroller/Gruntfile.js" />
       <root url="file://$PROJECT_DIR$/node_modules/nodeunit/test/fixtures/coffee/mock_coffee_module.js" />
       <root url="file://$PROJECT_DIR$/client/lib_bower/nanoscroller/coffeescripts/jquery.nanoscroller.js" />
-      <root url="file://$PROJECT_DIR$/client/routes.js" />
       <root url="file://$PROJECT_DIR$/client/controllers/about.js" />
       <root url="file://$PROJECT_DIR$/client/directives/index.js" />
       <root url="file://$PROJECT_DIR$/client/controllers/module.js" />
+      <root url="file://$PROJECT_DIR$/client/main.js" />
+      <root url="file://$PROJECT_DIR$/client/bootstrap.js" />
+      <root url="file://$PROJECT_DIR$/client/app.js" />
+      <root url="file://$PROJECT_DIR$/server/app.js" />
+      <root url="file://$PROJECT_DIR$/client/routes.js" />
     </CLASSES>
     <SOURCES />
   </library>
